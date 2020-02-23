@@ -1,7 +1,7 @@
 ---
 layout: home
 ---
-# Mike Bloomberg should not be President.
+# Mike Bloomberg wants to be your President!
 
 {% for fact in site.facts %}
 ## {{ fact.title }}
